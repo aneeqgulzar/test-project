@@ -134,7 +134,7 @@ code {
   padding: 3px 5px;
   font-size: 7px;
   margin-right: 3px;
-  margin-top: 2px;
+  margin-top: 3px;
 }
 }
 
@@ -275,7 +275,7 @@ button {
   border-radius: 5px;
   cursor: pointer;
   font-size: 14px;
-  margin-top: 2px;
+  margin-top: 3px;
   transition: background-color 0.3s, transform 0.3s;
   margin-right: 5px;
 }
@@ -331,7 +331,7 @@ button:disabled {
 
 .detail-view-image,
 .modal-image {
-  max-width: 36%;
+  max-width: 50%;
   height: auto;
   margin-top: 15px;
   border-radius: 8px;
