@@ -129,6 +129,12 @@ code {
   .menu-items {
     width: 100%;
   }
+  .tile-options button{
+  
+  padding: 3px 5px;
+  font-size: 7px;
+  margin-right: 3px;
+}
 }
 
 .grid-view {
